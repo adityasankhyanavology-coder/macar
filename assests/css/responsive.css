@@ -1,0 +1,2579 @@
+@media (max-width: 1400px) {
+    .section_header {
+        font-size: 64px;
+        line-height: 78px;
+    }
+
+    .section-sub-heading {
+        font-size: 34px;
+        line-height: 30px;
+    }
+
+    .section_sub_para {
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    section.after_banner {
+        padding: 90px 0;
+    }
+
+    .section_header {
+        margin-bottom: 18px;
+    }
+
+    .custom-created-button {
+        margin-top: 22px;
+    }
+
+    .section-sub-heading,
+    .section_sub_para {
+        margin-bottom: 22px;
+    }
+
+    section.bar-menu {
+        padding: 100px 0 75px;
+    }
+
+    .bar-menu-titel,
+    .bar-menu-sub-titel {
+        min-height: 700px;
+    }
+
+    section.bar-menu h3.section-sub-heading {
+        font-size: 22px;
+        line-height: 27px;
+        max-width: 430px;
+    }
+
+
+
+    .bottel-wrapper {
+        gap: 60px;
+    }
+
+    .bottel-cards-titel h3 {
+        font-size: 18px;
+        line-height: 23px;
+        max-width: 280px;
+    }
+
+
+
+    section.cafes {
+        padding: 70px 0 80px;
+    }
+
+    .cafe-wrapper {
+        min-height: 680px;
+        padding: 100px 99px;
+    }
+
+    section.cafes p.section_sub_para {
+        max-width: 620px;
+        font-size: 19px;
+        line-height: 29px;
+        margin-top: 40px;
+    }
+
+    .cafe-wrapper span {
+        font-size: 19px;
+        line-height: 29px;
+        margin-bottom: 42px;
+    }
+
+    h1.family {
+        max-width: 300px;
+    }
+
+
+    section.client {
+        padding: 75px 0 75px;
+    }
+
+    .client-titel p {
+        max-width: 850px;
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    .client-wrapper {
+        margin-top: 55px;
+        gap: 35px 25px;
+    }
+
+    .client-wrapper img {
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+
+    footer {
+        padding: 70px 0 25px;
+    }
+
+    .footer-titel h2 {
+        max-width: 520px;
+        font-size: 16px;
+        line-height: 26px;
+        margin-top: 45px;
+    }
+
+    .footer-titel h3,
+    .footer-titel h4 {
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    .footer-icons {
+        padding-bottom: 45px;
+    }
+
+
+    section.double {
+        padding: 55px 0;
+    }
+
+    .double-wrapper {
+        gap: 85px;
+    }
+
+    .double-wrapper img {
+        max-width: 100%;
+        height: auto;
+    }
+
+
+    .carebbean-banner {
+        min-height: 680px;
+    }
+
+    .carebbean-wrapper-titel h1 {
+        font-size: 68px;
+        line-height: 76px;
+        max-width: 500px;
+    }
+
+    .carebbean-wrapper-logo img {
+        max-width: 320px;
+        height: auto;
+    }
+
+
+
+
+
+}
+
+@media (max-width: 1300px) {
+    .header-wrapper {
+        gap: 35px;
+    }
+
+    .header-wrapper ul {
+        gap: 22px;
+    }
+
+    .banner-wrapper h1 {
+        font-size: 68px;
+        line-height: 1.1;
+        max-width: 620px;
+    }
+
+    .banner-wrapper h1 {
+        font-size: 68px;
+        line-height: 1.1;
+        max-width: 520px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .section_header {
+        font-size: 58px;
+        line-height: 70px;
+    }
+
+    .section-sub-heading {
+        font-size: 32px;
+        line-height: 30px;
+    }
+
+    .section_sub_para {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+
+    section.bar-menu {
+        padding: 85px 0 65px;
+    }
+
+    .bar-menu-titel,
+    .bar-menu-sub-titel {
+        min-height: 620px;
+    }
+
+    section.bar-menu h3.section-sub-heading {
+        font-size: 20px;
+        line-height: 26px;
+        max-width: 390px;
+    }
+
+
+
+    header {
+        padding: 35px 0;
+    }
+
+    .header-wrapper {
+        gap: 25px;
+    }
+
+    .header-wrapper ul {
+        gap: 18px;
+    }
+
+    .header-wrapper ul a {
+        font-size: 11px;
+    }
+
+    .site_logo img {
+        width: 155px;
+    }
+
+    .banner {
+        min-height: 680px;
+    }
+
+    section.banner-company {
+        min-height: 746px;
+    }
+
+    .banner-wrapper h1 {
+        font-size: 62px;
+        line-height: 1.1;
+        max-width: 470px;
+    }
+
+    section.after_banner {
+        padding: 75px 0;
+    }
+
+    .custom-short-line {
+        margin-bottom: 16px;
+        width: 45px;
+    }
+
+    .section_header {
+        margin-bottom: 16px;
+    }
+
+    .custom-created-button {
+        margin-top: 20px;
+    }
+
+    .section-sub-heading,
+    .section_sub_para {
+        margin-bottom: 20px;
+    }
+
+
+    .bottel-wrapper {
+        gap: 40px;
+    }
+
+    .bottel-cards {
+        width: calc(33.333% - 27px);
+    }
+
+    .bottel-img img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .bottel-cards-titel h3 {
+        font-size: 17px;
+        line-height: 22px;
+        max-width: 260px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .bottel-cards-titel h4 {
+        font-size: 21px;
+        line-height: 26px;
+    }
+
+    .bottel-titel {
+        margin-bottom: 60px;
+    }
+
+    .bottel-btn {
+        margin-top: 65px;
+    }
+
+
+
+    section.cafes {
+        padding: 65px 0 75px;
+    }
+
+    .cafe-wrapper {
+        min-height: 680px;
+        padding: 80px 80px;
+    }
+
+    section.cafes p.section_sub_para {
+        max-width: 560px;
+        font-size: 18px;
+        line-height: 28px;
+        margin-top: 35px;
+    }
+
+    .cafe-wrapper span {
+        max-width: 560px;
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 38px;
+    }
+
+    .service-wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 40px;
+    }
+
+
+
+
+    section.client {
+        padding: 65px 0 65px;
+    }
+
+    .client-titel p {
+        max-width: 780px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .client-wrapper {
+        grid-template-columns: repeat(4, 1fr);
+        margin-top: 50px;
+        gap: 30px 20px;
+    }
+
+
+
+    footer {
+        padding: 60px 0 25px;
+    }
+
+    .fotter-logo img {
+        max-width: 180px;
+        height: auto;
+    }
+
+    .footer-titel h2 {
+        max-width: 500px;
+        font-size: 16px;
+        line-height: 25px;
+        margin-top: 40px;
+    }
+
+    .footer-titel h3,
+    .footer-titel h4 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .footer-icons {
+        padding-bottom: 40px;
+    }
+
+
+    section.double {
+        padding: 50px 0;
+    }
+
+    .double-wrapper {
+        gap: 70px;
+    }
+
+    .double-wrapper img {
+        max-width: 95%;
+    }
+
+
+
+    .carebbean-banner {
+        min-height: 620px;
+    }
+
+    .carebbean-wrapper-titel h1 {
+        font-size: 60px;
+        line-height: 60px;
+        max-width: 350px;
+    }
+
+    .carebbean-wrapper-logo img {
+        max-width: 120px;
+    }
+
+
+    .la-logo img {
+        max-width: 300px;
+    }
+
+    .la-titel h2 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .la-titel h3 {
+        font-size: 25px;
+        line-height: 20px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    .la-image img {
+        width: 100%;
+        max-width: 500px;
+    }
+
+    .la-wrapper {
+        gap: 20px;
+    }
+
+    .enjoy-wrapper h2 {
+        font-size: 50px;
+        max-width: 440px;
+        color: white;
+        margin-top: 60px;
+    }
+
+    .enjoy {
+        width: 100%;
+        min-height: 500px;
+    }
+
+    .product-banner {
+        width: 100%;
+        min-height: 590px;
+
+    }
+
+    .product-banner-wrapper h1 {
+        font-size: 70px;
+        line-height: 70px;
+        max-width: 426px;
+
+    }
+
+    .exclusive-titel h2 {
+        font-size: 40px;
+        line-height: 80px;
+
+    }
+
+    .exclusive-titel h3 {
+        font-size: 25px;
+        line-height: 20px;
+
+    }
+
+    .exclusive-wrapper {
+
+        gap: 30px;
+    }
+
+
+    .service-banner {
+        width: 100%;
+        min-height: 650px;
+
+    }
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 1024px) {
+    .section_header {
+        font-size: 52px;
+        line-height: 63px;
+    }
+
+    .section-sub-heading {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .section_sub_para {
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    header {
+        padding: 30px 0;
+    }
+
+    .header-wrapper {
+        justify-content: space-between;
+        gap: 20px;
+        position: relative !important;
+    }
+
+    .header-wrapper nav {
+        display: none;
+    }
+
+    .site_logo {
+        position: absolute;
+        left: 0;
+        /* transform: translateX(-50%); */
+    }
+
+    .site_logo img {
+        width: 150px;
+    }
+
+    .header-toggle {
+        display: flex;
+        margin-left: auto;
+    }
+
+    .header-wrapper::before {
+        content: "";
+        width: 42px;
+    }
+
+    header.menu-open .left-nav,
+    header.menu-open .right-nav {
+        display: block;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 100%;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.95);
+    }
+
+    header.menu-open .left-nav ul,
+    header.menu-open .right-nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+        width: 100%;
+        padding: 10px 20px;
+    }
+
+    header.menu-open .left-nav ul li,
+    header.menu-open .right-nav ul li {
+        width: 100%;
+        text-align: center;
+    }
+
+    header.menu-open .left-nav ul a,
+    header.menu-open .right-nav ul a {
+        display: block;
+        width: 100%;
+        padding: 14px 10px;
+        font-size: 13px;
+    }
+
+    header.menu-open .right-nav {
+        top: calc(100% + 160px);
+    }
+
+    header.menu-open .header-toggle span:nth-child(1) {
+        transform: translateY(7px) rotate(45deg);
+    }
+
+    header.menu-open .header-toggle span:nth-child(2) {
+        opacity: 0;
+    }
+
+    header.menu-open .header-toggle span:nth-child(3) {
+        transform: translateY(-7px) rotate(-45deg);
+    }
+
+    .banner {
+        min-height: 450px;
+    }
+
+    section.banner-company {
+        min-height: 450px;
+    }
+
+    .banner-wrapper h1 {
+        font-size: 56px;
+        line-height: 1.1;
+        max-width: 400px;
+    }
+
+
+    .bottel-wrapper {
+        gap: 30px;
+    }
+
+    .bottel-cards {
+        width: calc(33.333% - 20px);
+    }
+
+    .bottel-cards-titel h3 {
+        font-size: 16px;
+        line-height: 21px;
+        padding-bottom: 16px;
+    }
+
+    .bottel-cards-titel h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .bottel-titel {
+        margin-bottom: 50px;
+    }
+
+    .bottel-btn {
+        margin-top: 55px;
+    }
+
+
+    section.cafes {
+        padding: 55px 0 65px;
+    }
+
+    .cafe-wrapper {
+        min-height: 680px;
+        padding: 80px 80px;
+    }
+
+    section.cafes p.section_sub_para {
+        max-width: 500px;
+        font-size: 17px;
+        line-height: 27px;
+        margin-top: 30px;
+    }
+
+    .cafe-wrapper span {
+        max-width: 500px;
+        font-size: 17px;
+        line-height: 27px;
+        margin-bottom: 32px;
+    }
+
+    section.service {
+        padding: 31px 0 34px;
+    }
+
+    section.client {
+        padding: 55px 0 60px;
+    }
+
+    .client-titel p {
+        max-width: 700px;
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .client-wrapper {
+        grid-template-columns: repeat(4, 1fr);
+        margin-top: 45px;
+        gap: 35px 25px;
+    }
+
+    .client-wrapper img {
+        max-width: 160px;
+    }
+
+
+    footer {
+        padding: 55px 0 22px;
+    }
+
+    .fotter-logo img {
+        max-width: 170px;
+    }
+
+    .footer-titel h2 {
+        max-width: 480px;
+        font-size: 15px;
+        line-height: 24px;
+        margin-top: 35px;
+    }
+
+    .footer-titel h3,
+    .footer-titel h4 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .footer-titel h4 {
+        margin-top: 12px;
+        margin-bottom: 14px;
+    }
+
+    .footer-icons {
+        gap: 12px;
+        padding-bottom: 35px;
+    }
+
+    .footer-last {
+        margin-top: 14px;
+    }
+
+    section.double {
+        padding: 45px 0;
+    }
+
+    .double-wrapper {
+        gap: 60px;
+    }
+
+    .double-wrapper img {
+        max-width: 90%;
+    }
+
+
+
+    .carebbean-banner {
+        min-height: 530px;
+    }
+
+    .carebbean-wrapper {
+        gap: 40px;
+    }
+
+    .carebbean-wrapper-titel h1 {
+        font-size: 45px;
+        line-height: 45px;
+        max-width: 230px;
+    }
+
+    .carebbean-wrapper-logo img {
+        max-width: 120px;
+    }
+
+    .la-titel p {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+
+    .la-titel h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .product-banner {
+        width: 100%;
+        min-height: 520px;
+    }
+
+    .product-banner-wrapper h1 {
+        font-size: 65px;
+        line-height: 65px;
+        max-width: 400px;
+    }
+
+
+    section.exclusive {
+        padding: 50px 0 50px;
+    }
+
+    .more-card h2 {
+        font-size: 50px;
+        line-height: 50px;
+        max-width: 300px;
+        margin-bottom: 10px;
+    }
+
+    .more-card-a h2 {
+        font-size: 50px;
+        line-height: 50px;
+        max-width: 300px;
+        margin-bottom: 10px;
+    }
+
+    .service-banner {
+        width: 100%;
+        min-height: 500px;
+    }
+
+    .service-wrapper h1 {
+        font-size: 50px;
+        line-height: 50px;
+        font-weight: 400;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 991px) {
+    .section_header {
+        font-size: 46px;
+        line-height: 56px;
+    }
+
+    .section-sub-heading {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .section_sub_para {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .custom-created-button {
+
+        font-size: 11px;
+        letter-spacing: 1.5px;
+    }
+
+    header {
+        padding: 25px 0;
+    }
+
+    .site_logo img {
+        width: 140px;
+    }
+
+    .banner {
+        min-height: 500px;
+        padding: 100px 0 70px;
+    }
+
+    section.banner-company {
+        min-height: 500px;
+    }
+
+    .banner-wrapper h1 {
+        font-size: 52px;
+        line-height: 1.1;
+        max-width: 300px;
+    }
+
+    section.after_banner {
+        padding: 60px 0;
+    }
+
+    .custom-short-line {
+        margin-bottom: 15px;
+        width: 42px;
+    }
+
+    .section_header {
+        margin-bottom: 15px;
+    }
+
+    .custom-created-button {
+        margin-top: 18px;
+    }
+
+    .section-sub-heading,
+    .section_sub_para {
+        margin-bottom: 18px;
+    }
+
+
+    section.bar-menu {
+        padding: 70px 0 55px;
+    }
+
+    .bar-menu-wrapper {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .bar-menu-titel,
+    .bar-menu-sub-titel {
+        min-height: 580px;
+    }
+
+    section.bar-menu h3.section-sub-heading {
+        font-size: 19px;
+        line-height: 25px;
+        max-width: 400px;
+        text-align: center;
+    }
+
+
+
+
+    .bottel-wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 50px 30px;
+    }
+
+    .bottel-cards {
+        width: 100%;
+    }
+
+
+
+    .bottel-img img {
+        max-width: 220px;
+        width: 100%;
+    }
+
+    .bottel-cards-titel h3 {
+        max-width: 280px;
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .bottel-cards-titel h4 {
+        font-size: 21px;
+        line-height: 26px;
+    }
+
+    .bottel-titel {
+        margin-bottom: 45px;
+    }
+
+    .bottel-btn {
+        margin-top: 55px;
+    }
+
+    section.cafes {
+        padding: 50px 0 60px;
+    }
+
+    .cafe-wrapper {
+        min-height: 520px;
+        padding: 80px 80px;
+    }
+
+    section.cafes p.section_sub_para {
+        max-width: 480px;
+        font-size: 16px;
+        line-height: 25px;
+        margin-top: 25px;
+    }
+
+    .cafe-wrapper span {
+        max-width: 480px;
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 28px;
+    }
+
+
+    .service-cards-img img {
+        width: 100%;
+        max-width: 300px;
+    }
+
+    .service-cards-titel h3 {
+        font-size: 20px;
+        line-height: 20px;
+        max-width: 203px;
+        margin-top: 20px;
+    }
+
+
+    section.client {
+        padding: 50px 0 55px;
+    }
+
+    .client-titel p {
+        max-width: 650px;
+        font-size: 16px;
+        line-height: 23px;
+    }
+
+    .client-wrapper {
+        grid-template-columns: repeat(4, 1fr);
+        margin-top: 40px;
+        gap: 30px 20px;
+    }
+
+    .client-wrapper img {
+        max-width: 150px;
+    }
+
+    footer {
+        padding: 50px 0 20px;
+    }
+
+    .fotter-logo img {
+        max-width: 160px;
+    }
+
+    .footer-titel h2 {
+        max-width: 450px;
+        font-size: 15px;
+        line-height: 23px;
+        margin-top: 32px;
+    }
+
+    .footer-titel h3,
+    .footer-titel h4 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .footer-icons {
+        padding-bottom: 32px;
+    }
+
+    .footer-last p {
+        font-size: 11px;
+        line-height: 22px;
+    }
+
+
+    section.double {
+        padding: 40px 0;
+    }
+
+    .double-wrapper {
+        gap: 50px;
+    }
+
+    .double-wrapper img {
+        max-width: 85%;
+    }
+
+
+
+    .carebbean-banner {
+        min-height: 450px;
+    }
+
+    .carebbean-wrapper {
+        gap: 30px;
+    }
+
+    .carebbean-wrapper-titel h1 {
+        font-size: 40px;
+        line-height: 40px;
+        max-width: 250px;
+    }
+
+    .carebbean-wrapper-logo img {
+        max-width: 120px;
+    }
+
+
+    .la-titel p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 6px;
+    }
+
+    .la-logo {
+        margin-bottom: 30px;
+    }
+
+    .enjoy-wrapper h2 {
+        font-size: 30px;
+        max-width: 250px;
+
+    }
+
+    .enjoy {
+        width: 100%;
+        min-height: 400px;
+    }
+
+
+    .complete-card-img img {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .complete-titel h2 {
+        font-size: 50px;
+        line-height: 30px;
+        margin-bottom: 40px;
+    }
+
+    .complete-card-sub-titel h3 {
+        font-size: 25px;
+        line-height: 25px;
+        margin-top: 11px;
+    }
+
+    .product-banner {
+        width: 100%;
+        min-height: 400px;
+    }
+
+    .exclusive-titel h2 {
+        font-size: 30px;
+        line-height: 30px;
+
+    }
+
+    .exclusive-titel h3 {
+        font-size: 20px;
+        line-height: 15px;
+        font-weight: 400;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+
+    .circel-card-titel p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .circel-card-number span {
+        font-size: 20px;
+        line-height: 20px;
+        font-weight: 400;
+    }
+
+
+    .service-banner {
+        width: 100%;
+        min-height: 400px;
+    }
+
+    .service-wrapper h1 {
+        font-size: 40px;
+        line-height: 40px;
+        font-weight: 400;
+    }
+
+    .service-banner {
+        width: 100%;
+        min-height: 350px;
+    }
+
+    .retail-titel h2 {
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 25px;
+        max-width: 450px;
+    }
+
+    .retail-titel p {
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: 400;
+        max-width: 461px;
+    }
+
+    .retail-card {
+        gap: 30px;
+    }
+
+    .detail-wrapper {
+        min-height: auto;
+    }
+
+    .detail-left {
+        padding: 100px 25px 60px;
+    }
+
+    .detail-left>h2 {
+        font-size: 45px;
+    }
+
+    .detail-right {
+        padding: 55px 40px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 767px) {
+    .section_header {
+        font-size: 38px;
+        line-height: 48px;
+    }
+
+    .section-sub-heading {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .section_sub_para {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .custom-created-button {
+
+        font-size: 11px;
+        line-height: 11px;
+        letter-spacing: 1.5px;
+    }
+
+    header {
+        padding: 20px 0;
+    }
+
+    .site_logo img {
+        width: 125px;
+    }
+
+    .header-toggle {
+        width: 38px;
+        height: 38px;
+    }
+
+    .header-toggle span {
+        width: 23px;
+    }
+
+    header.menu-open .left-nav ul a,
+    header.menu-open .right-nav ul a {
+        padding: 12px 10px;
+        font-size: 12px;
+    }
+
+
+
+    .banner {
+        min-height: 400px;
+        padding: 100px 0 60px;
+        background-position: center;
+    }
+
+    section.banner-company {
+        min-height: 400px;
+    }
+
+    .banner-wrapper h1 {
+        font-size: 44px;
+        line-height: 1.1;
+        max-width: 300px;
+    }
+
+    header.menu-open .right-nav {
+        top: calc(100% + 145px);
+    }
+
+    section.after_banner {
+        padding: 50px 0;
+    }
+
+    .custom-short-line {
+        margin-bottom: 14px;
+        width: 40px;
+    }
+
+    .section_header {
+        margin-bottom: 14px;
+    }
+
+    .custom-created-button {
+        margin-top: 16px;
+    }
+
+    .section-sub-heading,
+    .section_sub_para {
+        margin-bottom: 16px;
+    }
+
+
+    section.bar-menu {
+        padding: 55px 0 45px;
+    }
+
+    .bar-menu-titel,
+    .bar-menu-sub-titel {
+        min-height: 500px;
+        padding: 50px 25px;
+    }
+
+    section.bar-menu h3.section-sub-heading {
+        font-size: 18px;
+        line-height: 24px;
+        max-width: 360px;
+    }
+
+
+    .bottel-wrapper {
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 40px 20px;
+    }
+
+    .bottel-img img {
+        max-width: 190px;
+    }
+
+    .bottel-cards-titel h3 {
+        font-size: 16px;
+        line-height: 21px;
+        max-width: 240px;
+        padding-bottom: 14px;
+    }
+
+    .bottel-cards-titel h4 {
+        font-size: 19px;
+        line-height: 24px;
+        margin-top: 9px;
+    }
+
+    .bottel-titel {
+        margin-bottom: 40px;
+    }
+
+    .bottel-btn {
+        margin-top: 45px;
+    }
+
+    .bottel-btn .custom-created-button {
+        max-width: 100%;
+    }
+
+
+    section.cafes {
+        padding: 40px 0 50px;
+    }
+
+    .cafe-wrapper {
+        min-height: 500px;
+        padding: 50px 25px;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+    }
+
+    section.cafes p.section_sub_para {
+        max-width: 600px;
+        width: 100%;
+        font-size: 16px;
+        line-height: 25px;
+        margin-top: 25px;
+    }
+
+    .cafe-wrapper span {
+        max-width: 600px;
+        width: 100%;
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 30px;
+    }
+
+    section.cafes .custom-short-line {
+        width: 60px;
+    }
+
+    .cafes-wrapper-btn {
+        width: 100%;
+        text-align: center;
+    }
+
+    .service-wrapper {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+
+    .service-cards {
+        margin: 0 auto;
+    }
+
+    .service-cards-img img {
+        width: 100%;
+
+    }
+
+    .service-cards-titel h3 {
+        font-size: 25px;
+        line-height: 30px;
+        max-width: 253px;
+        margin-top: 20px;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+
+    section.client {
+        padding: 45px 0 50px;
+    }
+
+    .client-titel p {
+        max-width: 550px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .client-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+        margin-top: 35px;
+        gap: 35px 20px;
+    }
+
+    .client-wrapper img {
+        max-width: 145px;
+    }
+
+
+    footer {
+        padding: 45px 20px 20px;
+    }
+
+    .footer-wrapper {
+        width: 100%;
+    }
+
+    .fotter-logo img {
+        max-width: 150px;
+    }
+
+    .footer-titel h2 {
+        max-width: 500px;
+        width: 100%;
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 28px;
+        margin-bottom: 14px;
+    }
+
+    .footer-titel h3,
+    .footer-titel h4 {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .footer-titel h4 {
+        margin-top: 10px;
+        margin-bottom: 14px;
+    }
+
+    .footer-icons {
+        gap: 12px;
+        padding-bottom: 28px;
+    }
+
+    .footer-icons img {
+        max-width: 32px;
+        height: auto;
+    }
+
+    .footer-last {
+        margin-top: 12px;
+    }
+
+    .footer-last p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+
+
+    section.double {
+        padding: 35px 0;
+    }
+
+    .double-wrapper {
+        gap: 40px;
+    }
+
+    .double-wrapper img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+
+
+
+    .carebbean-banner {
+        min-height: 350px;
+        padding: 60px 0;
+    }
+
+    .carebbean-wrapper {
+        justify-content: space-between;
+        text-align: center;
+        gap: 35px;
+    }
+
+    .carebbean-wrapper-titel h1 {
+        font-size: 30px;
+        line-height: 30px;
+        max-width: 200px;
+    }
+
+    .carebbean-wrapper-logo img {
+        max-width: 90px;
+    }
+
+
+    .la-wrapper {
+        flex-direction: column-reverse;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .black-line {
+        margin: 0 auto;
+    }
+
+    .enjoy {
+        width: 100%;
+        min-height: 300px;
+    }
+
+    section.la {
+        padding: 87px 0 0px;
+    }
+
+    section.la {
+        padding: 40px 0 0px;
+    }
+
+    .complete-card-img img {
+        width: 100%;
+        max-width: 250px;
+    }
+
+    .complete-card-sub-titel h3 {
+        font-size: 20px;
+        line-height: 20px;
+        margin-top: 11px;
+        max-width: 280px;
+    }
+
+    .complete-wrapper {
+        row-gap: 30px;
+    }
+
+    .product-banner {
+        width: 100%;
+        min-height: 300px;
+    }
+
+    .product-banner-wrapper h1 {
+        font-size: 40px;
+        line-height: 40px;
+        max-width: 200px;
+    }
+
+    .exclusive-wrapper {
+        flex-direction: column;
+        text-align: center;
+        gap: 25px;
+    }
+
+    .black-line {
+        margin: 0 auto;
+    }
+
+    .more-wrapper {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .service-banner {
+        width: 100%;
+        min-height: 300px;
+    }
+
+    .service-wrapper h1 {
+        font-size: 30px;
+        line-height: 30px;
+        max-width: 150px;
+    }
+
+    .retail-titel h2 {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 20px;
+        max-width: 350px;
+        margin-bottom: 10px;
+    }
+
+    .retail-titel p {
+        font-size: 15px;
+        line-height: 18px;
+        font-weight: 400;
+        max-width: 361px;
+    }
+
+    .detail-wrapper {
+        flex-direction: column-reverse;
+    }
+
+    .detail-left,
+    .detail-right {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .detail-left {
+        padding: 70px 20px 50px;
+    }
+
+    .detail-left>h2 {
+        font-size: 42px;
+        margin-bottom: 28px;
+    }
+
+    .detail-info {
+        margin-bottom: 25px;
+    }
+
+    .detail-right {
+        padding: 55px 25px 60px;
+    }
+
+    .detail-form {
+        max-width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+@media (max-width: 567px) {
+    .bottel-wrapper {
+        grid-template-columns: 1fr;
+        gap: 45px;
+    }
+
+    .bottel-cards:last-child {
+        grid-column: auto;
+    }
+
+    .bottel-img img {
+        max-width: 210px;
+    }
+
+    .bottel-cards-titel h3 {
+        font-size: 17px;
+        line-height: 22px;
+        max-width: 280px;
+        padding-bottom: 15px;
+    }
+
+    .bottel-cards-titel h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .bottel-titel {
+        margin-bottom: 35px;
+    }
+
+    .bottel-btn {
+        margin-top: 45px;
+    }
+
+
+    footer {
+        padding: 40px 15px 18px;
+    }
+
+    .fotter-logo img {
+        max-width: 140px;
+    }
+
+    .footer-titel h2 {
+        max-width: 400px;
+        font-size: 13px;
+        line-height: 21px;
+        margin-top: 25px;
+    }
+
+    .footer-titel h3,
+    .footer-titel h4 {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .footer-icons {
+        gap: 10px;
+        padding-bottom: 25px;
+    }
+
+    .footer-icons img {
+        max-width: 29px;
+    }
+
+    .footer-last p {
+        font-size: 9px;
+        line-height: 18px;
+    }
+
+    section.double {
+        padding: 30px 0;
+    }
+
+    .double-wrapper {
+        gap: 30px;
+    }
+
+    .double-wrapper img {
+        width: 100%;
+    }
+
+    .carebbean-banner {
+        min-height: 300px;
+        padding: 50px 0;
+    }
+
+    .carebbean-wrapper {
+        gap: 30px;
+    }
+
+    .carebbean-wrapper-titel h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .carebbean-wrapper-logo img {
+        max-width: 90px;
+    }
+
+    .enjoy-wrapper h2 {
+        font-size: 20px;
+        max-width: 150px;
+    }
+
+    .enjoy {
+        width: 100%;
+        min-height: 260px;
+        margin-top: 20px;
+
+    }
+
+}
+
+@media (max-width: 480px) {
+    .carebbean-banner {
+        min-height: 280px;
+        padding: 45px 0;
+    }
+
+    .carebbean-wrapper {
+        gap: 25px;
+    }
+
+    .carebbean-wrapper-titel h1 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+
+    .carebbean-wrapper-logo img {
+        max-width: 70px;
+    }
+
+
+
+}
+
+@media (max-width: 567px) {
+    .section_header {
+        font-size: 32px;
+        line-height: 40px;
+    }
+
+    .section-sub-heading {
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .section_sub_para {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .custom-created-button {
+
+        font-size: 10px;
+        letter-spacing: 1.2px;
+    }
+
+    header {
+        padding: 18px 0;
+    }
+
+    .site_logo img {
+        width: 115px;
+    }
+
+    .banner {
+        min-height: 400px;
+    }
+
+    section.banner-company {
+        min-height: 400px;
+    }
+
+    .banner-wrapper h1 {
+        font-size: 38px;
+        line-height: 1.12;
+        max-width: 200px;
+    }
+
+    section.after_banner {
+        padding: 40px 0;
+    }
+
+    .custom-short-line {
+        margin-bottom: 12px;
+        width: 38px;
+    }
+
+    .section_header {
+        margin-bottom: 12px;
+    }
+
+    .custom-created-button {
+        margin-top: 14px;
+    }
+
+    .section-sub-heading,
+    .section_sub_para {
+        margin-bottom: 14px;
+    }
+
+
+    section.bar-menu {
+        padding: 45px 0 35px;
+    }
+
+    .bar-menu-titel,
+    .bar-menu-sub-titel {
+        min-height: 450px;
+        padding: 40px 20px;
+    }
+
+    section.bar-menu h3.section-sub-heading {
+        font-size: 17px;
+        line-height: 23px;
+        max-width: 320px;
+    }
+
+
+    section.cafes {
+        padding: 35px 0 45px;
+    }
+
+    .cafe-wrapper {
+        min-height: 480px;
+        padding: 45px 20px;
+    }
+
+    section.cafes p.section_sub_para {
+        font-size: 15px;
+        line-height: 24px;
+        margin-top: 22px;
+    }
+
+    .cafe-wrapper span {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 25px;
+    }
+
+    section.cafes .custom-short-line {
+        width: 55px;
+    }
+
+    section.client {
+        padding: 40px 0 45px;
+    }
+
+    .client-titel p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .client-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+        margin-top: 30px;
+        gap: 30px 15px;
+    }
+
+    .client-wrapper img {
+        max-width: 125px;
+    }
+
+    .bottel-wrapper {
+        grid-template-columns: 1fr 1fr;
+        gap: 40px 20px;
+    }
+
+    .complete-card-img img {
+        width: 100%;
+        max-width: 200px;
+    }
+
+    .complete-card-sub-titel h3 {
+        font-size: 17px;
+        line-height: 17px;
+        margin-top: 11px;
+        max-width: 240px;
+    }
+
+    .complete-titel h2 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+
+    .product-banner {
+        width: 100%;
+        min-height: 250px;
+    }
+
+    .product-banner-wrapper h1 {
+        font-size: 30px;
+        line-height: 30px;
+        max-width: 140px;
+    }
+
+    .exclusive-titel h2 {
+        font-size: 25px;
+        line-height: 20px;
+
+    }
+
+    .exclusive-titel p {
+        max-width: 561px;
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .circel-card-img {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .circel-cards {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    .service-banner {
+        width: 100%;
+        min-height: 250px;
+    }
+
+    .service-wrapper h1 {
+        font-size: 20px;
+        line-height: 20px;
+        max-width: 100px;
+    }
+
+    .retail-card {
+        flex-direction: column;
+        text-align: center;
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 480px) {
+    .section_header {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    .section-sub-heading {
+        font-size: 20px;
+        line-height: 26px;
+    }
+
+    .section_sub_para {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .custom-created-button {
+
+        font-size: 10px;
+        letter-spacing: 1px;
+    }
+
+    .site_logo img {
+        width: 105px;
+    }
+
+    .banner {
+        min-height: 300px;
+        padding: 90px 0 50px;
+    }
+
+    section.banner-company {
+        min-height: 300px;
+    }
+
+    .banner-wrapper h1 {
+        font-size: 25px;
+        line-height: 1.15;
+        max-width: 200px;
+    }
+
+    section.after_banner {
+        padding: 35px 0;
+    }
+
+    .custom-short-line {
+        margin-bottom: 10px;
+        width: 35px;
+    }
+
+    .section_header {
+        margin-bottom: 10px;
+    }
+
+    .custom-created-button {
+        margin-top: 12px;
+    }
+
+    .section-sub-heading,
+    .section_sub_para {
+        margin-bottom: 12px;
+    }
+
+
+    section.bar-menu {
+        padding: 35px 0 30px;
+    }
+
+    .bar-menu-titel,
+    .bar-menu-sub-titel {
+        min-height: 400px;
+        padding: 35px 18px;
+    }
+
+    section.bar-menu h3.section-sub-heading {
+        font-size: 16px;
+        line-height: 22px;
+        max-width: 290px;
+    }
+
+    .bottel-wrapper {
+        gap: 40px;
+    }
+
+    .bottel-img img {
+        max-width: 120px;
+    }
+
+    .bottel-cards-titel h3 {
+        font-size: 16px;
+        line-height: 21px;
+        max-width: 260px;
+    }
+
+    .bottel-cards-titel h4 {
+        font-size: 19px;
+        line-height: 24px;
+    }
+
+    .bottel-titel {
+        margin-bottom: 30px;
+    }
+
+    .bottel-btn {
+        margin-top: 40px;
+    }
+
+    section.cafes {
+        padding: 30px 0 40px;
+    }
+
+    .cafe-wrapper {
+        min-height: 450px;
+        padding: 40px 18px;
+        background-position: center;
+    }
+
+    section.cafes p.section_sub_para {
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 20px;
+    }
+
+    .cafe-wrapper span {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 22px;
+    }
+
+    section.cafes .custom-short-line {
+        width: 50px;
+    }
+
+
+    section.client {
+        padding: 35px 0 40px;
+    }
+
+    .client-titel p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .client-wrapper {
+        grid-template-columns: repeat(3, 1fr);
+        margin-top: 28px;
+        gap: 25px 10px;
+    }
+
+    .client-wrapper img {
+        max-width: 115px;
+    }
+
+    footer {
+        padding: 35px 15px 16px;
+    }
+
+    .fotter-logo img {
+        max-width: 130px;
+    }
+
+    .footer-titel h2 {
+        max-width: 350px;
+        font-size: 12px;
+        line-height: 20px;
+        margin-top: 22px;
+    }
+
+    .footer-titel h3,
+    .footer-titel h4 {
+        font-size: 12px;
+        line-height: 21px;
+    }
+
+    .footer-icons {
+        gap: 9px;
+        padding-bottom: 22px;
+    }
+
+    .footer-icons img {
+        max-width: 27px;
+    }
+
+    .footer-last p {
+        font-size: 9px;
+        line-height: 17px;
+    }
+
+    section.double {
+        padding: 25px 0;
+    }
+
+    .double-wrapper {
+        gap: 25px;
+    }
+
+
+    .bottel-wrapper {
+        grid-template-columns: 1fr;
+
+    }
+
+    .service-wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .enjoy {
+        width: 100%;
+        min-height: 210px;
+    }
+
+    .complete-card-sub-titel h3 {
+        font-size: 17px;
+        line-height: 17px;
+        margin-top: 11px;
+        max-width: 240px;
+        margin: 0 auto;
+        padding-top: 12px;
+    }
+
+    .complete-wrapper {
+        gap: 20px;
+    }
+
+    .complete-card-img img {
+        width: 100%;
+    }
+
+    .complete-titel h2 {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 20px;
+    }
+
+    .product-banner {
+        width: 100%;
+        min-height: 200px;
+    }
+
+    .product-banner-wrapper h1 {
+        font-size: 20px;
+        line-height: 20px;
+        max-width: 100px;
+    }
+
+    .service-banner {
+        width: 100%;
+        min-height: 200px;
+    }
+
+    .detail-left {
+        padding: 55px 15px 40px;
+    }
+
+    .detail-left>h2 {
+        font-size: 36px;
+    }
+
+    .detail-info h3 {
+        font-size: 22px;
+    }
+
+    .detail-info a {
+        font-size: 13px;
+    }
+
+    .detail-right {
+        padding: 45px 18px 50px;
+    }
+
+    .detail-form-title h2 {
+        font-size: 20px;
+    }
+
+    .detail-form-title p {
+        font-size: 10px;
+    }
+
+    .form-name {
+        gap: 8px;
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 380px) {
+    .section_header {
+        font-size: 25px;
+        line-height: 32px;
+    }
+
+    .section-sub-heading {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .section_sub_para {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .custom-created-button {
+
+        font-size: 9px;
+        letter-spacing: 1px;
+    }
+
+    .site_logo img {
+        width: 95px;
+    }
+
+    .header-toggle {
+        width: 35px;
+        height: 35px;
+    }
+
+    .banner {
+        min-height: 250px;
+    }
+
+    section.banner-company {
+        min-height: 250px;
+    }
+
+
+    .banner-wrapper h1 {
+        font-size: 20px;
+        max-width: 170px;
+    }
+
+    section.after_banner {
+        padding: 30px 0;
+    }
+
+    .custom-short-line {
+        margin-bottom: 8px;
+        width: 32px;
+    }
+
+    .section_header {
+        margin-bottom: 8px;
+    }
+
+    .custom-created-button {
+        margin-top: 10px;
+    }
+
+    .section-sub-heading,
+    .section_sub_para {
+        margin-bottom: 10px;
+    }
+
+
+
+
+
+    section.bar-menu {
+        padding: 30px 0 25px;
+    }
+
+    .bar-menu-titel,
+    .bar-menu-sub-titel {
+        min-height: 360px;
+        padding: 30px 15px;
+    }
+
+    section.bar-menu h3.section-sub-heading {
+        font-size: 15px;
+        line-height: 21px;
+        max-width: 270px;
+    }
+
+
+
+    .bottel-wrapper {
+        gap: 35px;
+    }
+
+    .bottel-img img {
+        max-width: 70px;
+    }
+
+    .bottel-cards-titel h3 {
+        font-size: 15px;
+        line-height: 20px;
+        max-width: 240px;
+        padding-bottom: 13px;
+    }
+
+    .bottel-cards-titel h4 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .bottel-titel {
+        margin-bottom: 25px;
+    }
+
+    .bottel-btn {
+        margin-top: 35px;
+    }
+
+    section.cafes {
+        padding: 25px 0 35px;
+    }
+
+    .cafe-wrapper {
+        min-height: 430px;
+        padding: 35px 15px;
+    }
+
+    section.cafes p.section_sub_para {
+        font-size: 13px;
+        line-height: 21px;
+        margin-top: 18px;
+    }
+
+    .cafe-wrapper span {
+        font-size: 13px;
+        line-height: 21px;
+        margin-bottom: 20px;
+    }
+
+    section.cafes .custom-short-line {
+        width: 45px;
+    }
+
+    h1.family {
+        max-width: 150px;
+    }
+
+
+    section.client {
+        padding: 30px 0 35px;
+    }
+
+    .client-titel p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .client-wrapper {
+        grid-template-columns: 1fr 1fr;
+        margin-top: 25px;
+        gap: 22px 8px;
+    }
+
+    .client-wrapper img {
+        max-width: 100px;
+    }
+
+
+    footer {
+        padding: 30px 12px 15px;
+    }
+
+    .fotter-logo img {
+        max-width: 120px;
+    }
+
+    .footer-titel h2 {
+        max-width: 320px;
+        font-size: 11px;
+        line-height: 19px;
+        margin-top: 20px;
+    }
+
+    .footer-titel h3,
+    .footer-titel h4 {
+        font-size: 11px;
+        line-height: 20px;
+    }
+
+    .footer-titel h4 {
+        margin-top: 8px;
+        margin-bottom: 12px;
+    }
+
+    .footer-icons {
+        gap: 8px;
+        padding-bottom: 20px;
+    }
+
+    .footer-icons img {
+        max-width: 25px;
+    }
+
+    .footer-last {
+        margin-top: 10px;
+    }
+
+    .footer-last p {
+        font-size: 8px;
+        line-height: 16px;
+    }
+
+
+
+    section.double {
+        padding: 20px 0;
+    }
+
+    .double-wrapper {
+        gap: 20px;
+    }
+
+
+    .carebbean-banner {
+        min-height: 240px;
+        padding: 40px 0;
+    }
+
+    .carebbean-wrapper {
+        gap: 22px;
+    }
+
+    .carebbean-wrapper-titel h1 {
+        font-size: 18px;
+        line-height: 20px;
+        max-width: 80px;
+    }
+
+    .carebbean-wrapper-logo img {
+        max-width: 60px;
+    }
+
+    .la-titel p {
+        font-size: 13px;
+        line-height: 16px;
+        margin-bottom: 5px;
+    }
+
+
+    .enjoy {
+        width: 100%;
+        min-height: 170px;
+    }
+
+    .enjoy-wrapper h2 {
+        font-size: 15px;
+        max-width: 120px;
+        margin-top: 20px;
+    }
+
+    .product-banner {
+        width: 100%;
+        min-height: 150px;
+    }
+
+    .product-banner-wrapper h1 {
+        font-size: 15px;
+        line-height: 15px;
+        max-width: 80px;
+    }
+
+    .service-banner {
+        width: 100%;
+        min-height: 160px;
+    }
+
+
+
+
+
+}
