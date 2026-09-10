@@ -182,6 +182,10 @@ header {
 }
 
 header.scrolled {
+    background: #000;
+}
+
+header.scrolled {
     background: rgba(0, 0, 0, 0.9);
     padding: 20px 0;
 }
