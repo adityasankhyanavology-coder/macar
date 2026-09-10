@@ -766,6 +766,12 @@ section.complete {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     row-gap: 72px;
+    max-width: 888px !important;
+    margin: 0 auto;
+}
+.complete-cards {
+    width: 100% !important;
+    max-width: 388px !important;
 }
 
 
