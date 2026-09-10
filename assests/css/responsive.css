@@ -178,7 +178,7 @@
    .banner-wrapper h1 {
     font-size: 63px;
     line-height: 1.1;
-    max-width: 520px;
+    max-width: 300px;
 }
 
   
@@ -249,7 +249,7 @@
     .banner-wrapper h1 {
         font-size: 53px;
         line-height: 1.1;
-        max-width: 470px;
+        max-width: 300px;
     }
 
     section.after_banner {
@@ -613,7 +613,7 @@
     .banner-wrapper h1 {
         font-size: 56px;
         line-height: 1.1;
-        max-width: 400px;
+        max-width: 300px;
     }
 
 
@@ -864,7 +864,7 @@
     .banner-wrapper h1 {
         font-size: 34px;
         line-height: 1.1;
-        max-width: 300px;
+        max-width: 200px;
     }
 
     section.after_banner {
@@ -1270,7 +1270,7 @@
     .banner-wrapper h1 {
         font-size: 30px;
         line-height: 1.1;
-        max-width: 300px;
+        max-width: 130px;
     }
 
     header.menu-open .right-nav {
@@ -1835,7 +1835,7 @@
     .banner-wrapper h1 {
         font-size: 22px;
         line-height: 1.12;
-        max-width: 200px;
+        max-width: 100px;
     }
 
     section.after_banner {
@@ -2040,7 +2040,7 @@
     .banner-wrapper h1 {
         font-size: 19px;
         line-height: 1.15;
-        max-width: 200px;
+        max-width: 100px;
     }
 
     section.after_banner {
@@ -2335,7 +2335,7 @@
 
     .banner-wrapper h1 {
         font-size: 20px;
-        max-width: 170px;
+        max-width: 90px;
     }
 
     section.after_banner {
