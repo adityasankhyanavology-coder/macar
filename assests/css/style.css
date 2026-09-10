@@ -772,6 +772,20 @@ section.complete {
     min-height: 746px;
     display: flex;
     align-items: center;
+    position: relative;
+    overflow: hidden !important;
+}
+
+.product-banner::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.product-banner > * {
+    position: relative;
+    z-index: 1;
 }
 
 .product-banner-wrapper {
@@ -786,6 +800,7 @@ section.complete {
 
 section.exclusive {
     padding: 100px 0 100px;
+    overflow: hidden !important;
 }
 
 .exclusive-titel h2 {

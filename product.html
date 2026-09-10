@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assests/css/style.css">
     <link rel="stylesheet" href="./assests/css/responsive.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <title>product</title>
 </head>
 
@@ -54,7 +55,8 @@
     <section class="product-banner">
         <div class="container">
             <div class="row">
-                <div class="product-banner-wrapper">
+                <div class="product-banner-wrapper" data-aos="fade-left" data-aos-anchor="#example-anchor"
+                    data-aos-offset="500" data-aos-duration="500">
                     <h1>Our products</h1>
                 </div>
             </div>
@@ -69,11 +71,11 @@
 
                     <div class="exclusive-img">
 
-                        <img src="./assests/images/exclusive.png" alt="">
+                        <img src="./assests/images/exclusive.png" alt="" data-aos="fade-up-right">
 
                     </div>
 
-                    <div class="exclusive-titel">
+                    <div class="exclusive-titel" data-aos="fade-up-left">
                         <h2>EXCLUSIVE WINERIES</h2>
 
                         <div class="black-line"></div>
@@ -433,6 +435,12 @@
 
 
     <script src="./assests/js/index.js"></script>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>
