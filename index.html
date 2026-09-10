@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assests/css/style.css">
     <link rel="stylesheet" href="./assests/css/responsive.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <title>Macar</title>
 </head>
 
@@ -56,7 +57,11 @@
         <div class="container">
             <div class="row">
                 <div class="banner-wrapper">
-                    <h1>Bringing you the excellence of flavor</h1>
+                    <h1>
+                        <span>Bringing you</span>
+                        <span>the excellence</span>
+                        <span>of flavor</span>
+                    </h1>
                 </div>
             </div>
         </div>
@@ -198,16 +203,18 @@
     <section class="cafes">
         <div class="row">
             <div class="cafe-wrapper">
-                <h2 class="section_header">Cafes La Caribeña</h2>
-                <div class="custom-short-line"></div>
-                <p class="section_sub_para">For the most demanding coffee growers, La Caribeña coffees offer the
+                <h2 class="section_header" data-aos="fade-left">Cafes La Caribeña</h2>
+                <div class="custom-short-line" data-aos="fade-left"></div>
+                <p class="section_sub_para" data-aos="fade-left">For the most demanding coffee growers, La Caribeña
+                    coffees offer the
                     highest quality. Enjoying a good coffee does not cost that much and knowing well what to drink
                     is important to us, which is why we offer a large selection of the best-grown coffee for
                     sensations and moments of great tasting.
                 </p>
 
-                <span>More than 30 years distributing the best coffee in the province of Almería.</span>
-                <div class="cafes-wrapper-btn">
+                <span data-aos="fade-left">More than 30 years distributing the best coffee in the province of
+                    Almería.</span>
+                <div class="cafes-wrapper-btn" data-aos="fade-left">
                     <a class="custom-created-button" href="#">About Us</a>
                 </div>
             </div>
@@ -278,7 +285,7 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="footer-wrapper">
+                <div class="footer-wrapper" data-aos="fade-up" data-aos-duration="3000">
 
                     <div class="fotter-logo">
                         <img src="./assests/images/header-logo.png" alt="">
@@ -314,6 +321,10 @@
 
 
     <script src="./assests/js/index.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>

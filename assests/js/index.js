@@ -21,3 +21,67 @@ window.addEventListener("scroll", function () {
     }
 });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const lines = [
+    "Bringing you",
+    "the excellence",
+    "of flavor"
+];
+
+const spans = document.querySelectorAll(".banner-wrapper h1 span");
+
+let line = 0;
+let char = 0;
+let deleting = false;
+
+function typeEffect() {
+    const current = lines[line];
+
+    if (!deleting) {
+        spans[line].textContent = current.substring(0, char);
+        char++;
+
+        if (char > current.length) {
+            if (line < lines.length - 1) {
+                line++;
+                char = 0;
+            } else {
+                deleting = true;
+                setTimeout(typeEffect, 1500);
+                return;
+            }
+        }
+    } else {
+        spans[line].textContent = current.substring(0, char);
+        char--;
+
+        if (char < 0) {
+            if (line > 0) {
+                line--;
+                char = lines[line].length;
+            } else {
+                deleting = false;
+                char = 0;
+            }
+        }
+    }
+
+    setTimeout(typeEffect, deleting ? 60 : 100);
+}
+
+spans.forEach(span => span.textContent = "");
+
+typeEffect();

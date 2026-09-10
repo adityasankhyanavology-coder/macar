@@ -15,7 +15,7 @@ html {
 
 body {
     margin: 0;
-    font-family: "Plus Jakarta Sans", sans-serif;
+  
     font-size: 16px;
     line-height: 1.5;
     color: #222;
@@ -227,7 +227,7 @@ header.scrolled {
 .banner {
     padding: 100px 0;
     background-image: url(../images/banner-img.png);
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -273,7 +273,7 @@ section.banner-company {
 /* ////////////////////////////////////////////////after-banner/////////////////// */
 
 section.after_banner {
-    padding: 106px 0;
+    padding: 106px 0 107px;
 }
 
 .custom-short-line {
@@ -363,6 +363,7 @@ section.bar-menu .custom-short-line {
 /* //////////////////////////////////////bottel////////////////////////////////////// */
 
 
+
 .bottel-wrapper {
     display: flex;
     align-items: center;
@@ -407,14 +408,13 @@ section.bar-menu .custom-short-line {
 
 .bottel-btn {
     text-align: center;
-    margin-top: 81px;
+    margin-top: 57px;
 }
-
 
 /* /////////////////////////////////////////////cafes/////////////// */
 
 section.cafes {
-    padding: 80px 0 91px;
+    padding: 81px 0 91px;
 }
 
 .cafe-wrapper {
@@ -428,6 +428,19 @@ section.cafes {
     flex-direction: column;
     align-items: end;
     padding: 180px 149px;
+    position: relative;
+}
+
+.cafe-wrapper::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.cafe-wrapper>* {
+    position: relative;
+    z-index: 1;
 }
 
 section.cafes p.section_sub_para {
@@ -436,9 +449,8 @@ section.cafes p.section_sub_para {
     line-height: 30px;
     color: white;
     margin-top: 45px;
+    text-align: end;
 }
-
-
 
 
 section.cafes .custom-short-line {
@@ -462,7 +474,7 @@ section.cafes h2.section_header {
 /* ////////////////////////service/////////////////// */
 
 section.service {
-    padding: 91px 0 104px;
+    padding: 0px 0 104px;
 }
 
 .service-wrapper {
@@ -477,6 +489,7 @@ section.service {
     font-weight: 400;
     max-width: 303px;
     text-align: center;
+    margin: 0 auto;
     margin-top: 24px;
 }
 
@@ -1165,4 +1178,50 @@ h1.contact {
 
 .detail-form button:hover {
     background: #df7d0c;
+}
+
+.only_image img {
+    width: 100%;
+    max-width: 988px;
+    margin: 0 auto;
+}
+
+
+
+.banner-wrapper h1 span {
+    display: block;
+    width: fit-content;
+    overflow: hidden;
+    white-space: nowrap;
+   font-family: "Cinzel", serif !important;
+    animation: typing 2s steps(20, end) forwards,
+               blink 0.7s step-end infinite;
+}
+
+.banner-wrapper h1 span:nth-child(2) {
+    animation-delay: 2s;
+}
+
+.banner-wrapper h1 span:nth-child(3) {
+    animation-delay: 4s;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
+
+section.cafes {
+    overflow: hidden !IMPORTANT;
 }
