@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assests/css/style.css">
     <link rel="stylesheet" href="./assests/css/responsive.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <title>COMPONY</title>
 </head>
 
@@ -55,7 +56,7 @@
         <div class="container">
             <div class="row">
                 <div class="banner-wrapper">
-                    <h1 class="family">A family business</h1>
+                    <h1 class="family" data-aos="fade-right"> A family business</h1>
                 </div>
             </div>
         </div>
@@ -78,24 +79,24 @@
                     guarantee of an always quality product.
                 </p>
 
-                 <p class="section_sub_para">Quality, professionalism and dedication to good taste over these 40 years
+                <p class="section_sub_para">Quality, professionalism and dedication to good taste over these 40 years
                     have made our company take
                     care of its customers with total dedication for the best sales and after-sales service, with the
                     guarantee of an always quality product.
                 </p>
 
 
-                 <p class="section_sub_para">Quality, professionalism and dedication to good taste over these 40 years
+                <p class="section_sub_para">Quality, professionalism and dedication to good taste over these 40 years
                     have made our company take
                     care of its customers with total dedication for the best sales and after-sales service, with the
                     guarantee of an always quality product.
                 </p>
 
-                 <p class="section_sub_para">Quality, professionalism and dedication to good taste over these 40 years
+                <p class="section_sub_para">Quality, professionalism and dedication to good taste over these 40 years
                     have made our company take
                     care of its customers with total dedication for the best sales and after-sales service, with the
                     guarantee of an always quality product.
-                    </p>
+                </p>
                 <a class="custom-created-button" href="./company">Know More</a>
             </div>
         </div>
@@ -103,8 +104,8 @@
 
     <div class="room">
         <div class="row">
-            <div class="room-wrapper">
-                <img src="./assests/images/room.png" alt="">
+            <div class="room-wrapper" >
+                <img src="./assests/images/room.png" alt="" >
             </div>
         </div>
     </div>
@@ -114,10 +115,11 @@
             <div class="row">
                 <div class="client-titel">
                     <h2 class="section_header">Our clients</h2>
-                    <p>If you are a customer and want to appear on our website, send us your Logo to the address Info@cafeslacaribena.es</p>
+                    <p>If you are a customer and want to appear on our website, send us your Logo to the address
+                        Info@cafeslacaribena.es</p>
                 </div>
 
-                <div class="client-wrapper">
+                <div class="client-wrapper" data-aos="zoom-in">
                     <img src="./assests/images/client.png" alt="">
                     <img src="./assests/images/client1.png" alt="">
                     <img src="./assests/images/client2.png" alt="">
@@ -135,16 +137,18 @@
     <section class="cafes">
         <div class="row">
             <div class="cafe-wrapper">
-                <h2 class="section_header">Cafes La Caribeña</h2>
-                <div class="custom-short-line"></div>
-                <p class="section_sub_para">For the most demanding coffee growers, La Caribeña coffees offer the
+                <h2 class="section_header" data-aos="fade-left">Cafes La Caribeña</h2>
+                <div class="custom-short-line" data-aos="fade-left"></div>
+                <p class="section_sub_para" data-aos="fade-left">For the most demanding coffee growers, La Caribeña
+                    coffees offer the
                     highest quality. Enjoying a good coffee does not cost that much and knowing well what to drink
                     is important to us, which is why we offer a large selection of the best-grown coffee for
                     sensations and moments of great tasting.
                 </p>
 
-                <span>More than 30 years distributing the best coffee in the province of Almería.</span>
-                <div class="cafes-wrapper-btn">
+                <span data-aos="fade-left">More than 30 years distributing the best coffee in the province of
+                    Almería.</span>
+                <div class="cafes-wrapper-btn" data-aos="fade-left">
                     <a class="custom-created-button" href="#">About Us</a>
                 </div>
             </div>
@@ -156,8 +160,8 @@
         <div class="container">
             <div class="row">
                 <div class="double-wrapper">
-                    <img src="./assests/images/double.png" alt="">
-                    <img src="./assests/images/double1.png" alt="">
+                    <img src="./assests/images/double.png" alt="" data-aos="fade-right">
+                    <img src="./assests/images/double1.png" alt="" data-aos="fade-left">
                 </div>
 
             </div>
@@ -168,7 +172,7 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="footer-wrapper">
+                <div class="footer-wrapper" data-aos="fade-up" data-aos-duration="3000">
 
                     <div class="fotter-logo">
                         <img src="./assests/images/header-logo.png" alt="">
@@ -202,8 +206,11 @@
 
 
 
-
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="./assests/js/index.js"></script>
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>

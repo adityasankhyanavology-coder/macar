@@ -264,7 +264,7 @@ section.banner-company {
     display: flex;
     align-items: center;
     color: #fff;
-
+    overflow: hidden !important;
 }
 
 
@@ -565,6 +565,7 @@ footer {
 
 section.client {
     padding: 88px 0 86px;
+    overflow: hidden !important;
 }
 
 .client-titel p {
@@ -590,6 +591,7 @@ section.client {
 
 .double {
     padding: 60px 0 60px;
+    overflow: hidden !important;
 }
 
 .double-wrapper {
