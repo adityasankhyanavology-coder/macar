@@ -273,7 +273,7 @@ section.banner-company {
 /* ////////////////////////////////////////////////after-banner/////////////////// */
 
 section.after_banner {
-    padding: 106px 0 107px;
+    padding: 89px 0 89px;
 }
 
 .custom-short-line {
@@ -957,6 +957,20 @@ section {
     min-height: 750px;
     display: flex;
     align-items: center;
+    position: relative;
+    overflow: hidden !important;
+}
+
+.service-banner::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+}
+
+.service-banner > * {
+    position: relative;
+    z-index: 1;
 }
 
 /* //////////////////////////////truck///////////////////////////////// */
@@ -972,6 +986,7 @@ section {
 
 section.retail {
     padding: 40px 0 50px;
+    overflow: hidden !important;
 }
 
 
