@@ -616,6 +616,20 @@ section.client {
     min-height: 750px;
     display: flex;
     align-items: center;
+    position: relative;
+    overflow: hidden !important;
+}
+
+.carebbean-banner::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.40);
+}
+
+.carebbean-banner > * {
+    position: relative;
+    z-index: 1;
 }
 
 .carebbean-wrapper {
@@ -642,6 +656,7 @@ section.client {
 
 section.la {
     padding: 87px 0 80px;
+    overflow: hidden !important;
 }
 
 .la-logo img {
@@ -727,6 +742,7 @@ section.la {
 
 section.complete {
     padding: 90px 0 84px;
+    overflow: hidden !important;
 }
 
 .complete-card-sub-titel h3 {

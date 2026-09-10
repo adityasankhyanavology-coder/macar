@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assests/css/style.css">
     <link rel="stylesheet" href="./assests/css/responsive.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
     <title>carebbean</title>
 </head>
 
@@ -56,13 +58,13 @@
             <div class="row">
                 <div class="carebbean-wrapper">
 
-                    <div class="carebbean-wrapper-titel">
+                    <div class="carebbean-wrapper-titel" data-aos="fade-right">
 
                         <h1>Cafes La Caribeña</h1>
 
                     </div>
 
-                    <div class="carebbean-wrapper-logo">
+                    <div class="carebbean-wrapper-logo" data-aos="fade-left">
 
                         <img src="./assests/images/carebbean-logo.png" alt="">
 
@@ -78,13 +80,13 @@
         <div class="container">
             <div class="row">
 
-                <div class="la-logo">
+                <div class="la-logo" data-aos="flip-left">
                     <img src="./assests/images/la.png" alt="">
                 </div>
 
                 <div class="la-wrapper">
 
-                    <div class="la-titel">
+                    <div class="la-titel" data-aos="fade-up-right">
 
                         <h2>OWN ELABORATION</h2>
 
@@ -112,7 +114,7 @@
                     </div>
 
 
-                    <div class="la-image">
+                    <div class="la-image" data-aos="fade-up-left">
 
                         <img src="./assests/images/la1.png" alt="">
 
@@ -165,7 +167,7 @@
 
                 <div class="complete-wrapper">
 
-                    <div class="complete-cards">
+                    <div class="complete-cards" data-aos="fade-up" data-aos-duration="3000">
 
                         <div class="complete-card-img">
 
@@ -183,7 +185,7 @@
 
 
 
-                    <div class="complete-cards">
+                    <div class="complete-cards" data-aos="fade-down" data-aos-duration="3000">
 
                         <div class="complete-card-img">
 
@@ -202,7 +204,7 @@
 
 
 
-                    <div class="complete-cards">
+                    <div class="complete-cards" data-aos="fade-down" data-aos-duration="3000">
 
                         <div class="complete-card-img">
 
@@ -221,7 +223,7 @@
 
 
 
-                    <div class="complete-cards">
+                    <div class="complete-cards" data-aos="fade-up" data-aos-duration="3000">
 
                         <div class="complete-card-img">
 
@@ -284,6 +286,11 @@
 
 
     <script src="./assests/js/index.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script>
+        AOS.init();
+    </script>
 </body>
 
 </html>

@@ -175,13 +175,13 @@
         gap: 22px;
     }
 
-   .banner-wrapper h1 {
-    font-size: 63px;
-    line-height: 1.1;
-    max-width: 300px;
-}
+    .banner-wrapper h1 {
+        font-size: 63px;
+        line-height: 1.1;
+        max-width: 300px;
+    }
 
-  
+
 }
 
 @media (max-width: 1200px) {
@@ -2286,6 +2286,10 @@
         gap: 8px;
     }
 
+    .la-logo img {
+        max-width: 200px;
+    }
+
 
 
 
@@ -2566,6 +2570,22 @@
     .service-banner {
         width: 100%;
         min-height: 160px;
+    }
+
+    .la-titel h2 {
+        font-size: 20px;
+        line-height: 15px;
+    }
+
+    .la-titel h3 {
+        font-size: 20px;
+        line-height: 10px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .la-logo img {
+        max-width: 200px;
     }
 
 
